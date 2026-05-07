@@ -1,0 +1,4 @@
+aiohttp
+uvloop
+requests
+streamlit
