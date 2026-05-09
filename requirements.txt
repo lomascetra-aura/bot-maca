@@ -1,4 +1,4 @@
-aiohttp
-uvloop
-requests
+
 streamlit
+requests
+pandas
